@@ -1,7 +1,7 @@
 #------------------------------------------------------------DESCCRIPTION---------------------------------------------------------#
 # The Viterbi algorithm is a dynamic programming algorithm for finding the most likely sequence of hidden states(Viterbi path).   #
 # Especially in the context of Markov information sources and hidden Markov models.                                               #
-# speech recognition, speech synthesis, diarization, keyword spotting, computational linguistics, and bioinformatics.          #
+# Widely used in speech recognition, speech synthesis, diarization, keyword spotting, computational linguistics,and bioinformatics#
 #---------------------------------------------------------------------------------------------------------------------------------#
 
 #------------------------------------------------------------DESCCRIPTION---------------------------------------------------------#
